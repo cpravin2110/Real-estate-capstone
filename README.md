@@ -29,7 +29,7 @@ The project covers the complete Machine Learning workflow from **data preprocess
 
 ---
 
-## 🚀 Live Demo & Repository
+## 🚀 Live Demo 
 
 ### 🌐 Live Application
 
