@@ -35,10 +35,6 @@ The project covers the complete Machine Learning workflow from **data preprocess
 
 👉 **[Open Live Demo](https://real-estate-capstone-pravinchavan.streamlit.app/)**
 
-### 💻 GitHub Repository
-
-👉 **[View Source Code](https://github.com/cpravin2110/Real-estate-capstone)**
-
 ---
 
 ## 🏷️ Technologies
