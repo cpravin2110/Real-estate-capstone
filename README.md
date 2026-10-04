@@ -885,9 +885,6 @@ Streamlit Community Cloud
 Live Web Application
 ```
 
-### Live Application
-
-👉 https://real-estate-capstone-pravinchavan.streamlit.app/
 
 ---
 
