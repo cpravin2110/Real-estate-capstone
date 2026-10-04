@@ -560,22 +560,10 @@ XGBRegressor(
 ### Best Cross-Validation Performance
 
 ```text
-R² = 0.9056879367
-```
-
-Approximately:
-
-```text
 R² = 0.905688
 ```
 
 ### Hold-Out Test Performance
-
-```text
-MAE = 0.10839851482591882 crore
-```
-
-Approximately:
 
 ```text
 MAE ≈ 0.1084 crore
