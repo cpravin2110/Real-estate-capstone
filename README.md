@@ -24,7 +24,7 @@ The project covers the complete Machine Learning workflow from **data preprocess
 
 ### 🏢 Apartment Recommendation
 
-![Apartment Recommendation](https://github.com/cpravin2110/Real-estate-capstone/blob/5fce48f0249fdff26c6f168d3ad17e36e078ca48/Img/Screenshot%202026-10-04%20190802.png)
+![Apartment Recommendation](https://github.com/cpravin2110/Real-estate-capstone/blob/55f91e5c0a49426486ce3927b4b237a62a988d15/Img/Screenshot%202026-10-05%20121245.png)
 
 
 ---
